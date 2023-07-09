@@ -7,10 +7,10 @@
     "genre": "Action",
     "type": "series",
     "url": "the boys.html",
-    "trailer": "video/john wick.webm",
-    "low": "video/theboys.webm",
-    "medium": "video/theboys.webm",
-    "high": "video/theboys.webm"
+    "trailer": "video/john wick.mp4",
+    "low": "video/theboys.mp4",
+    "medium": "video/theboys.mp4",
+    "high": "video/theboys.mp4"
 }, {
     "name": "Money Heist",
     "imdb": 9.9,
